@@ -21,7 +21,6 @@ This project automates electricity bill analysis for solar load calculation usin
 - Tesseract OCR
 - OpenCV
 - pdfplumber
-- pandas
 - openpyxl
 - HTML / CSS
 
